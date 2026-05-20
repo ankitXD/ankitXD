@@ -3,7 +3,7 @@
     src="window-mid-left.png"
     width="23.49%"
     align="center"
-  /><a target="_blank" href="https://www.justankit.dev"
+  /><a target="_blank" rel="noopener noreferrer" href="https://www.justankit.dev"
     ><img src="window-button-ok.png" width="11.01%" align="center" /></a
   ><img src="window-button-gap.png" width="0.88%" align="center" /><a
     href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" 
